@@ -1,18 +1,28 @@
 {
     "links": [
         {
-            "type": "twitter",
-            "title": "Twitter",
-            "icon": "fa-twitter",
-            "url": "https://twitter.com/crevax"
-        },
-        null,
-        {
             "type": "github",
             "title": "GitHub",
             "icon": "fa-github",
             "url": "https://github.com/Crevax"
         },
-        null
+        {
+            "type": "stackexcahnge",
+            "title": "Stack Exchange",
+            "icon": "fa-stack-exchange",
+            "url": "https://stackexchange.com/users/1394876/crevax"
+        },
+        {
+            "type": "twitter",
+            "title": "Twitter",
+            "icon": "fa-twitter",
+            "url": "https://twitter.com/crevax"
+        },
+        {
+            "type": "linkedin",
+            "title": "LinkedIn",
+            "icon": "fa-linkedin",
+            "url": "https://www.linkedin.com/in/crevax/"
+        }
     ]
 }
