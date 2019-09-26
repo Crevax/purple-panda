@@ -1,0 +1,23 @@
+title: Stackbit Fresh Theme
+baseURL: /
+params:
+  layout_style: overflow
+  palette: blue
+  header:
+    title: CJ Davis
+    tagline: >-
+      Just someone who likes how technology can enrich lives or make things
+      easier.
+    profile_img: >-
+      https://res.cloudinary.com/practicaldev/image/fetch/s--GbMsnDk6--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/200866/94861b5c-d5c0-4520-a4cc-cb777027c27d.jpg
+    bg: dark
+    has_nav: true
+    has_social: true
+  footer:
+    content: '&copy; All rights reserved.'
+    links:
+      - text: Made with Stackbit
+        url: 'https://www.stackbit.com'
+        new_window: true
+disableKinds:
+  - RSS
