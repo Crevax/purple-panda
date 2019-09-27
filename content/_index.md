@@ -5,7 +5,7 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      I love technology and am always learning something new. I also believe in sharing useful or interesting information, so this site will help with the purpose.
+      I love technology and am always learning something new. I also believe in sharing useful or interesting information, so this site will help with that purpose.
   - section_id: about
     component: content_block.html
     type: contentblock
